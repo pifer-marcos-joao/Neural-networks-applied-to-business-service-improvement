@@ -9,7 +9,7 @@ Current Accuracy: 68.8%
 The project is carried out at SEAT, an automotive company part of Volkswagen Group, which
 apart from manufacturing personal vehicles, designs and develops mobility products and services
 at SEAT:CODE and is currently introducing e-mobility solutions to Barcelona at SEAT:MO.
-More precisely, this Artificial Intelligence solution takes place working as a Data
+More precisely, this Artificial Intelligence solution takes place during my BSc project development as a Data
 Scientist at SEAT’s IT Department.
 
 ## Scope
