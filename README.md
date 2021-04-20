@@ -1,4 +1,4 @@
-# Neural-networks-applied-to-business-service-improvement
+# WIA (Wrong Impact Assigment) based on BERT
 BSc Project.
 
 The code corresponds to part of the project, specifically to the classification model used in section 3.4 Wrong Impact Assigment in a further development phase.
