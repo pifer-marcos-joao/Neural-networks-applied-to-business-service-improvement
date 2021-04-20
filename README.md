@@ -15,7 +15,7 @@ Scientist at SEAT’s IT Department.
 ## Scope
 The scope of this model is to detect a problem or group of problems that will have an impact
 actually higher than the indicated when it was created. In order to achieve this, the idea is to
-mix both supervised and unsupervised learning as mentioned previously. Impact is the parameter that indicates in a range 1 to 4 how many users are affected by the same problem, then
+mix both supervised and unsupervised learning but in this Github section only the supervised learning will be treated. Impact is the parameter that indicates in a range 1 to 4 how many users are affected by the same problem, then
 it makes sense to create a simple multi-class classification model to predict in which category
 a problem would fall.
 
