@@ -20,7 +20,7 @@ it makes sense to create a simple multi-class classification model to predict in
 a problem would fall.
 
 <p align="center">
-  <img src="latex/graphs/WIA_BERT_arch.png" width="550" height="700">
+  <img src="latex/graphs/WIA_BERT_arch.png" width="360" height="450">
 </p>
 
 
